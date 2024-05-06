@@ -12,7 +12,7 @@ SafeZone App Development is a project aimed at designing and developing a mobile
 
 ## Project Details
 
-- **Project Manager:** [Your Name]
+- **Project Manager:** Us
 - **Budget:** R1,500,000
 - **Timeline:** 10 Months
 - **Technology Stack:** Cross-platform development using React Native for frontend, API integration for backend, and appropriate database setup.
